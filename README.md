@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @olgaor
+- 👀 I’m interested in video and animation
+- 🌱 I’m currently learning ML
